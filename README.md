@@ -7,7 +7,7 @@
 https://ieeexplore.ieee.org/document/10083158
 ***
 ## Cite
-'''
+
 > @ARTICLE{wang_2023, \
 > &emsp;&emsp;&emsp;&emsp; author={Wang, Shaokun and Shi, Weiwei and Dong, Songlin and Gao, Xinyuan and Song, Xiang and Gong, Yihong}, \
 > &emsp;&emsp;&emsp;&emsp; journal={IEEE Transactions on Circuits and Systems for Video Technology}, \
@@ -17,4 +17,4 @@ https://ieeexplore.ieee.org/document/10083158
 > &emsp;&emsp;&emsp;&emsp; number={}, \
 > &emsp;&emsp;&emsp;&emsp; pages={1-1}, \
 > &emsp;&emsp;&emsp;&emsp; doi={10.1109/TCSVT.2023.3262739}}
-'''
+
